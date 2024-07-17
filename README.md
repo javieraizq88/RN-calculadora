@@ -10,7 +10,14 @@ First, you will need to start **Metro**, the JavaScript _bundler_ that ships _wi
 
 To start Metro, run the following command from the _root_ of your React Native project:
 
+
+
 ```bash
+
+npm install react-native-paper
+npm install react-native-safe-area-context
+npm install react-native-vector-icons
+
 # using npm
 npm start
 
